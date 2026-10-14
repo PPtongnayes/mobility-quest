@@ -1,0 +1,1783 @@
+{
+  "version": "2026-10-10-v2",
+  "sources": [
+    [
+      "出境入境管理法 / Exit and Entry Administration Law",
+      "https://www.nia.gov.cn/n794014/n1050181/n1050479/c1013311/content.html"
+    ],
+    [
+      "外国人入境出境管理条例（2025 年修订）/ Regulations, amended 2025",
+      "https://www.mee.gov.cn/zcwj/gwywj/202508/t20250815_1125409.shtml"
+    ],
+    [
+      "来华工作分类标准（试行）/ National work-permit classification standards",
+      "https://www.shkjdw.gov.cn/c/2020-01-11/519662.shtml"
+    ],
+    [
+      "来华工作许可服务指南 / Work-permit service guide",
+      "https://fgw.sh.gov.cn/ys-gjmy-1.2.2.2.2-h5/20240314/392d2cec030946b7a867d658cd3dd4e9.html"
+    ],
+    [
+      "工作许可证与社保卡融合通知 / Work-permit and card integration",
+      "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202501/t20250113_3987501.html"
+    ],
+    [
+      "国家移民管理局：居留证件指南 / NIA residence-permit guide",
+      "https://www.nia.gov.cn/n741440/n741587/n1316094/n1355872/c1356308/content.html"
+    ],
+    [
+      "中国领事服务网：签证申请须知 / MFA visa application instructions",
+      "https://cs.mfa.gov.cn/lh/lhqz_149493/qzxz/202608/t20260806_11999100.html"
+    ],
+    [
+      "国家移民管理局：住宿登记 / NIA accommodation registration",
+      "https://en.nia.gov.cn/n147418/n147468/c237295/content.html"
+    ],
+    [
+      "上海市政府：分类与积分说明（全国标准部分）/ National classification and points",
+      "https://english.shanghai.gov.cn/en-Individuals-Employment-EligibilityandWorkpermit/20260813/3b14d60fe3484535958e580a24720412.html"
+    ]
+  ],
+  "lessons": [
+    {
+      "title": [
+        "01 · 来华工作：从境外申请到在华入职",
+        "01 · From overseas application to employment"
+      ],
+      "intro": [
+        "先看全流程。本页以“申请人在境外、首次来华、受聘长期工作超过 90 日”的常见路径为例；永久居留人员、境内转换和短期工作另有适用规则。",
+        "This example covers a first-time applicant overseas taking employment in China for more than 90 days. Permanent residents, in-country changes and short-term assignments may follow other routes."
+      ],
+      "sections": [
+        {
+          "title": [
+            "第一步：确认雇主、岗位和申请路径",
+            "Step 1: confirm employer, role and route"
+          ],
+          "text": [
+            "团队先收集国籍、年龄、工作城市、雇主、职责、期限、学历和相关工作经历，评估适用的工作许可人才分类及办理路径。雇主需具备合法聘用条件，岗位可能涉及行业准入要求。先评估条件，再安排入职日期；已签合同不等于可以上班。",
+            "Collect nationality, age, city, employer, duties, duration, qualifications and relevant experience. Assess the work-permit category and route. The employer must be eligible to hire; the role may need sector approvals. Assess before scheduling the work start: a signed contract is not employment authorization."
+          ]
+        },
+        {
+          "title": [
+            "第二步：雇主申请工作许可，取得通知",
+            "Step 2: employer applies for work authorization"
+          ],
+          "text": [
+            "雇主或受委托机构通过外国人来华工作管理服务系统提交申请。材料通常涉及护照、聘用合同或任职证明、学历或资格、工作经历、无犯罪记录及健康证明；具体清单、证明方式和豁免按适用规则核对。审核通过后取得《外国人工作许可通知》，用于衔接签证等手续；它不是签证，也不能仅凭通知安排立即工作。",
+            "The employer or authorized agency applies through the foreigner work-management system. Evidence typically concerns passport, employment contract or appointment, qualifications, experience, criminal-record check and health. Verify the route-specific list, verification methods and exemptions. Following approval, the work permit notification supports visa and subsequent procedures. It is not a visa or, alone, sufficient clearance to start work."
+          ]
+        },
+        {
+          "title": [
+            "第三步：申请适用签证，再安排入境",
+            "Step 3: obtain the appropriate visa before entry"
+          ],
+          "text": [
+            "这条普通长期受雇路径通常申请 Z 字工作签证。申请人按中国驻外使领馆或签证中心要求，提交工作许可通知和其他材料。签证机关独立决定是否签发签证，工作许可申请获批不等于签证一定获批。R 字人才签证等特别路径要另行确认。",
+            "The ordinary long-term employment route usually uses a Z visa. Apply with the notification and other evidence required by the Chinese embassy, consulate or visa center. Visa issuance is a separate decision; work-permit approval does not guarantee it. Special routes such as R require separate review."
+          ]
+        },
+        {
+          "title": [
+            "第四步：入境、住宿登记和证件衔接",
+            "Step 4: entry, accommodation and permit verification"
+          ],
+          "text": [
+            "旅馆住宿由旅馆登记；入住公寓、朋友家等非旅馆住所，应由本人或留宿人在入住后 24 小时内登记。自 2024 年 12 月 1 日起，工作许可证与社保卡融合集成，工作许可业务全程网上办理，入境后无需再申领旧式实体工作许可证。按现行规则衔接电子社保卡和工作许可信息核验。",
+            "Hotels handle hotel registration. At a non-hotel address, the foreign national or host registers within 24 hours of arrival at that accommodation. Since December 1, 2024, work permits have been integrated with social security cards and permit services are online. A new old-format physical work-permit card is no longer required after entry; follow current electronic-card and permit-verification procedures."
+          ]
+        },
+        {
+          "title": [
+            "第五步：申请工作类居留许可，确认入职条件",
+            "Step 5: work-type residence and readiness to work"
+          ],
+          "text": [
+            "签证注明入境后须办居留证件的，应在入境之日起 30 日内向拟居留地公安机关出入境管理机构申请。现行融合规则下，可持工作许可通知或加载工作许可信息的电子社保卡等办理有关居留手续，并按要求补充材料。对这条普通长期受雇路径，团队应确认有效工作许可、工作类居留许可及雇主岗位一致后，安排实际工作。",
+            "If the visa requires residence documentation after entry, apply to the local public-security exit-entry authority within 30 days of entry. Under integration rules, notification or an electronic card carrying work-permit information can support relevant residence procedures, with other required evidence. For this ordinary long-term route, confirm valid work authorization and work-type residence, consistent with the employer and role, before actual employment."
+          ]
+        }
+      ],
+      "reminder": [
+        "流程：条件评估 → 工作许可申请及通知 → 适用签证 → 入境与住宿登记 → 工作许可核验及工作类居留手续 → 合规入职。",
+        "Journey: eligibility → work application and notification → appropriate visa → entry and registration → permit verification and work residence → compliant start."
+      ],
+      "sources": [
+        0,
+        3,
+        4,
+        6,
+        7
+      ]
+    },
+    {
+      "title": [
+        "02 · 签证、工作许可、居留许可：三套不同制度",
+        "02 · Visa, work permit and residence: three different systems"
+      ],
+      "intro": [
+        "三者分别涉及入境事由、工作授权和居留事由。名称中都可能出现“工作”，但功能、分类和审批机关不同。",
+        "These concern entry purpose, employment authorization and residence purpose. Each may refer to work, but its function, classification and issuing authority differ."
+      ],
+      "sections": [
+        {
+          "title": [
+            "三种文件对照",
+            "Compare the three documents"
+          ],
+          "headers": [
+            [
+              "文件",
+              "Document"
+            ],
+            [
+              "作用与主管机关",
+              "Purpose and authority"
+            ],
+            [
+              "分类",
+              "Categories"
+            ]
+          ],
+          "rows": [
+            [
+              [
+                "签证 / Visa",
+                "Visa"
+              ],
+              [
+                "用于申请入境，注明事由、有效期、次数及停留要求；境外通常由中国驻外签证机关签发。",
+                "Supports entry for a specified purpose; states validity, entries and stay conditions. Usually issued by Chinese visa authorities overseas."
+              ],
+              [
+                "Z、M、F、L、R 等普通签证类别。",
+                "Ordinary visa types such as Z, M, F, L and R."
+              ]
+            ],
+            [
+              [
+                "工作许可 / Work Permit",
+                "Work permit"
+              ],
+              [
+                "外国人来华工作管理部门审批，针对工作授权及对应雇主、岗位。",
+                "Work-authority approval for employment and the corresponding employer and role."
+              ],
+              [
+                "A 高端人才、B 专业人才、C 其他人员。",
+                "A high-end, B professional, C other personnel."
+              ]
+            ],
+            [
+              [
+                "居留许可 / Residence Permit",
+                "Residence permit"
+              ],
+              [
+                "公安机关出入境管理机构审批，允许按相应事由在华居留。",
+                "Exit-entry authority approval for residence under a specified purpose."
+              ],
+              [
+                "工作、学习、记者、团聚、私人事务类。",
+                "Work, study, journalist, reunion, private affairs."
+              ]
+            ]
+          ]
+        },
+        {
+          "title": [
+            "A/B/C 不是签证类别",
+            "A/B/C are not visa types"
+          ],
+          "text": [
+            "本课程中的 A/B/C 只指工作许可的人才分类。比如 B 类专业人才在常见境外申请路径中，先申请 Z 字签证，入境后办理工作类居留许可。适用情形下，A 或 C 类也可能使用 Z 字签证。不能把 Z 等同于某一个人才类别，也不要把工作类居留许可叫成“B 类居留证”。",
+            "A/B/C in this course are work-permit talent classifications only. A B professional may obtain a Z visa overseas, then work-type residence after entry. A or C applicants may also use Z where applicable. Z is not a single talent category; work residence is not a “B residence permit”."
+          ]
+        },
+        {
+          "title": [
+            "工作许可通知与工作许可信息",
+            "Notification and work-permit information"
+          ],
+          "text": [
+            "通知用于衔接签证及有关居留手续；工作许可、签证和居留仍是不同事项。不要看到“通知已出”“签证已出”或“社保卡已领”就跳过其他条件。要核对工作许可是否有效，以及是否已完成适用的居留手续。",
+            "The notification links permit processing to visa and relevant residence procedures. Work, visa and residence decisions remain separate. Notification issuance, visa issuance or collecting a card does not replace checking effective employment authorization and applicable residence procedures."
+          ]
+        }
+      ],
+      "reminder": [
+        "正确表达：B 类工作许可 + Z 字签证 + 工作类居留许可。不要说“B 类工作签证”。",
+        "Use: B-category work permit + Z visa + work-type residence. Avoid “B work visa”."
+      ],
+      "sources": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "title": [
+        "03 · 常见签证：工作、商务、访问与人才",
+        "03 · Common visas: work, business, visits and talent"
+      ],
+      "intro": [
+        "按实际来华事由选择签证。公司邀请函不会让所有活动都变成商务，也不能替代工作许可。",
+        "Choose by actual purpose. A company invitation does not make every activity business or replace employment authorization."
+      ],
+      "sections": [
+        {
+          "title": [
+            "常见类别及容易混淆的地方",
+            "Common categories and distinctions"
+          ],
+          "headers": [
+            [
+              "签证",
+              "Visa"
+            ],
+            [
+              "主要事由",
+              "Main purpose"
+            ],
+            [
+              "注意区分",
+              "Distinction"
+            ]
+          ],
+          "rows": [
+            [
+              [
+                "Z：工作",
+                "Z: work"
+              ],
+              [
+                "申请在中国境内工作；普通长期受雇通常走这条路径。",
+                "Employment in China; the usual long-term hire route."
+              ],
+              [
+                "按规定提交工作许可等材料；长期工作通常还需工作类居留。",
+                "Work evidence is required; long-term work usually also needs work residence."
+              ]
+            ],
+            [
+              [
+                "M：商务",
+                "M: business"
+              ],
+              [
+                "商业贸易，例如符合该事由的商务洽谈、经贸活动。",
+                "Commercial and trade activities, including qualifying negotiations."
+              ],
+              [
+                "M 本身不授予在华受雇任职的工作授权。",
+                "M alone is not employment authorization."
+              ]
+            ],
+            [
+              [
+                "F：访问",
+                "F: visits"
+              ],
+              [
+                "交流、访问、考察等活动。",
+                "Exchanges, visits and study tours."
+              ],
+              [
+                "与 M 商业贸易、Z 受雇工作区分。",
+                "Distinguish from M trade and Z employment."
+              ]
+            ],
+            [
+              [
+                "L：旅游",
+                "L: tourism"
+              ],
+              [
+                "旅游活动。",
+                "Tourism."
+              ],
+              [
+                "旅游身份不等于受雇工作资格。",
+                "Tourism does not confer employment eligibility."
+              ]
+            ],
+            [
+              [
+                "R：人才",
+                "R: talent"
+              ],
+              [
+                "符合认定条件的国家需要的高层次或急需紧缺人才。",
+                "Qualifying high-level or urgently needed specialist talent."
+              ],
+              [
+                "R 是签证，A 是人才分类；长期工作仍须核对工作及居留手续。",
+                "R is a visa; A is a talent category. Review work and residence procedures for long-term employment."
+              ]
+            ],
+            [
+              [
+                "K：青年科技人才",
+                "K: young science and technology talent"
+              ],
+              [
+                "符合主管部门条件的青年科技人才；2025 年 10 月 1 日起新增。",
+                "Qualifying young science and technology talent; introduced October 1, 2025."
+              ],
+              [
+                "不是第四类工作许可；涉及受雇工作时仍须核对授权。",
+                "Not a fourth work-permit category; check authorization when employment is planned."
+              ]
+            ]
+          ]
+        },
+        {
+          "title": [
+            "来华务工通常使用哪一种？",
+            "Which is normally used for employment?"
+          ],
+          "text": [
+            "普通境外首次、长期受雇申请通常使用 Z 字签证。R、K 等特别情形和境内办理政策需按条件核对。不能说“有任何签证都可以工作”，也不能说“所有外国人只能持 Z 工作”。短期工作要另行核对活动性质、期限及通知内容。",
+            "For an ordinary first-time overseas long-term hire, Z is usual. R, K and in-country policies require case-specific checks. Neither “any visa permits work” nor “only Z can ever lead to work” is a sound rule. Assess short-term activities, duration and notification conditions separately."
+          ]
+        }
+      ],
+      "reminder": [
+        "判断重点是实际活动：商务洽谈和在中国雇主处受雇履职不是同一个事由。",
+        "Assess actual activities: negotiations and employment with a Chinese employer are different purposes."
+      ],
+      "sources": [
+        1,
+        6
+      ]
+    },
+    {
+      "title": [
+        "04 · 探亲与学习：S、Q 和 X 如何区分",
+        "04 · Family and study: distinguish S, Q and X"
+      ],
+      "intro": [
+        "随行家属不会继承员工的工作许可。要按家属自己的来华事由，以及被探望人的身份选择路径。",
+        "Dependants do not inherit the employee’s work authorization. Choose their route by their own purpose and the sponsor’s status."
+      ],
+      "sections": [
+        {
+          "title": [
+            "被探望人身份是关键",
+            "Sponsor status matters"
+          ],
+          "headers": [
+            [
+              "类别",
+              "Category"
+            ],
+            [
+              "适用情况",
+              "Situation"
+            ],
+            [
+              "常见居留衔接",
+              "Typical residence link"
+            ]
+          ],
+          "rows": [
+            [
+              [
+                "S1 / S2",
+                "S1 / S2"
+              ],
+              [
+                "探望因工作、学习等在华停留居留的外国人，或私人事务。S1 长期探亲的亲属范围包括配偶、父母、未满 18 岁子女和配偶父母。",
+                "Visits to foreign residents/stayers or private affairs. S1 long-term family scope includes spouse, parents, children under 18 and parents-in-law."
+              ],
+              [
+                "S1 长期探亲通常衔接私人事务类居留；S2 通常为短期。",
+                "Long S1 family visits usually link to private-affairs residence; S2 usually covers short stays."
+              ]
+            ],
+            [
+              [
+                "Q1 / Q2",
+                "Q1 / Q2"
+              ],
+              [
+                "探望中国公民或具有中国永久居留资格的外国人。Q1 为家庭团聚居留、寄养等；Q2 为短期探亲。",
+                "Visits to Chinese citizens or foreign permanent residents. Q1 covers reunion residence/foster care; Q2 short family visits."
+              ],
+              [
+                "Q1 家庭团聚通常衔接团聚类居留。",
+                "Q1 reunion usually links to reunion residence."
+              ]
+            ],
+            [
+              [
+                "X1 / X2",
+                "X1 / X2"
+              ],
+              [
+                "X1：学习超过 180 日；X2：学习不超过 180 日。",
+                "X1: study over 180 days; X2: up to 180 days."
+              ],
+              [
+                "X1 通常衔接学习类居留，学生身份不等于全职工作授权。",
+                "X1 usually links to study residence; study status is not full-time employment permission."
+              ]
+            ]
+          ]
+        },
+        {
+          "title": [
+            "数字不是有效年数",
+            "The numbers do not mean years"
+          ],
+          "text": [
+            "S1 通常为超过 180 日的长期探亲或需居留的私人事务；S2 通常为不超过 180 日的短期探亲或停留。Q1 关注家庭团聚居留，Q2 为短期探亲。“1”不代表一年签证，“2”不代表两年签证，实际有效期、停留期及居留要求要查看证件。",
+            "S1 generally covers family visits over 180 days or private affairs requiring residence; S2 generally covers short family visits or stays up to 180 days. Q1 focuses on reunion residence and Q2 short visits. “1” and “2” do not mean one- and two-year visas; read the actual conditions."
+          ]
+        },
+        {
+          "title": [
+            "其他类别了解即可",
+            "Other categories to recognize"
+          ],
+          "text": [
+            "C：国际运输乘务等人员；G：过境；D：赴华永久居留；J1/J2：常驻或短期记者。它们各有材料及用途，不是普通企业员工的常见工作路径。",
+            "C: qualifying transport crew; G: transit; D: entry for permanent residence; J1/J2: resident/short-term journalists. Each has separate purposes and evidence, outside the ordinary corporate employee route."
+          ]
+        }
+      ],
+      "reminder": [
+        "外籍员工的配偶长期探亲，通常评估 S1；探望中国公民或外籍中国永居者的符合条件家属，才评估 Q 类。",
+        "For a foreign employee’s spouse making a long family visit, assess S1. Q concerns qualifying relatives of Chinese citizens or foreign permanent residents."
+      ],
+      "sources": [
+        1,
+        6
+      ]
+    },
+    {
+      "title": [
+        "05 · 工作许可：共同条件与分类逻辑",
+        "05 · Work permits: common requirements and classification"
+      ],
+      "intro": [
+        "“属于哪一类人才”与“这次申请能否获批”是两个问题。分类达标后仍须核对雇主、岗位、材料及审批要求。",
+        "Talent classification and approval of this application are separate. Check employer, role, evidence and approval requirements after identifying a category route."
+      ],
+      "sections": [
+        {
+          "title": [
+            "一般申请条件",
+            "General requirements"
+          ],
+          "text": [
+            "服务指南的一般条件包括：年满 18 周岁、身体健康、无犯罪记录、境内有确定的用人单位、具有工作所需技能或知识；岗位应符合经济社会发展需要及适用规定。专门人员、项目或法律法规另有规定的，按对应规定办理。",
+            "General conditions include age 18 or above, good health, no criminal record, a confirmed employer in China and necessary skills or knowledge. The role must meet development needs and applicable rules. Follow separate provisions for designated personnel, programs or legal exceptions."
+          ]
+        },
+        {
+          "title": [
+            "A/B/C 人才分类概览",
+            "A/B/C talent classification"
+          ],
+          "headers": [
+            [
+              "分类",
+              "Category"
+            ],
+            [
+              "评估方向",
+              "Assessment"
+            ],
+            [
+              "常见误解",
+              "Common misconception"
+            ]
+          ],
+          "rows": [
+            [
+              [
+                "A：高端人才",
+                "A: high-end talent"
+              ],
+              [
+                "专业成就、人才计划、鼓励岗位、创新创业、优秀青年或积分等。",
+                "Achievements, programs, encouraged roles, entrepreneurs, outstanding young talent or points."
+              ],
+              [
+                "不是 A 类签证，也不只限高积分者。",
+                "Not an A visa or exclusively a high-score category."
+              ]
+            ],
+            [
+              [
+                "B：专业人才",
+                "B: professionals"
+              ],
+              [
+                "常见学历经验路径，或技能、教学、薪酬、专门项目、积分等。",
+                "Degree/experience or skills, teaching, remuneration, programs and points."
+              ],
+              [
+                "不要求把所有替代路径同时满足。",
+                "Alternative routes need not all be met together."
+              ]
+            ],
+            [
+              [
+                "C：其他人员",
+                "C: other personnel"
+              ],
+              [
+                "特定政策、临时短期工作及部分配额管理人员。",
+                "Specific policies, temporary/short-term work and certain quota-managed groups."
+              ],
+              [
+                "不是低积分者自动获批的兜底类别。",
+                "Not automatic approval for low scores."
+              ]
+            ]
+          ]
+        },
+        {
+          "title": [
+            "积分只是认定路径之一",
+            "Points are one recognition route"
+          ],
+          "text": [
+            "按现行全国积分说明，85 分及以上可评估 A 类积分路径；60 分及以上但不足 85 分可评估 B 类。项目涉及学历或资格、工资、相关经验、年龄、年度工作时间、汉语、地域和地方鼓励项。仅计算可按规则证明的项目；通过另一认定路径达标，不必同时凑齐积分。",
+            "Under the current national framework, at least 85 points supports A; 60 to below 85 supports B. Factors include qualifications, remuneration, relevant experience, age, work duration, Chinese, region and local incentives. Only evidenced eligible items count. Qualifying through another recognized route does not also require meeting the points threshold."
+          ]
+        }
+      ],
+      "reminder": [
+        "先核对一般条件，再选择有证据支持的分类路径；分类评估不等于工作许可已经签发。",
+        "Check general requirements and an evidenced category route; classification assessment is not an issued permit."
+      ],
+      "sources": [
+        2,
+        3,
+        8
+      ]
+    },
+    {
+      "title": [
+        "06 · A 类工作许可：六条高端人才认定路径",
+        "06 · Category A: six high-end talent routes"
+      ],
+      "intro": [
+        "符合国家引进重点、目录及某条具体认定路径，可据此评估 A 类。不要求六条同时满足，但每条路径内部条件仍需核对。",
+        "Assess A against national priorities, catalogs and a qualifying recognition route. All six routes need not be met; the conditions within the selected route still matter."
+      ],
+      "sections": [
+        {
+          "title": [
+            "路径 1–2：人才计划与专业成就",
+            "Routes 1–2: programs and achievements"
+          ],
+          "text": [
+            "① 国内人才引进计划：须为按规定批准或备案、由相应级别主管部门认定的计划，不是任意公司自设计划。\n② 国际公认专业成就：例如符合标准的国际重要奖项、科学院或工程院院士，以及符合具体条款的科研、企业、教育、艺术、体育等专业人员。普通奖项或自称“知名专家”不能直接证明符合。",
+            "1. Domestic talent programs must have the required approval/filing and authority recognition, rather than an employer-created scheme.\n2. International achievements include qualifying major awards, academy membership and specified achievements in research, enterprise, education, arts and sports. Ordinary awards or a self-described expert title are not sufficient."
+          ]
+        },
+        {
+          "title": [
+            "路径 3：市场导向的鼓励类岗位",
+            "Route 3: market-oriented encouraged positions"
+          ],
+          "text": [
+            "需核对机构类型、职位和相应条件。例子包括符合要求企业的高级管理或技术职务，以及规定高校科研机构的相应高级职位。还包括平均工资收入不低于本地区上年度社会平均工资收入 6 倍的外籍人才；工资口径及证据要按当地要求核对。任何公司“经理”头衔并不自动符合。",
+            "Check institution type, position and the relevant conditions. Examples include qualifying senior management/technical roles at specified enterprises and senior posts in specified universities or research bodies. Average remuneration of at least six times the regional prior-year average social wage is also included; verify the benchmark and evidence locally. A manager title alone is not sufficient."
+          ]
+        },
+        {
+          "title": [
+            "路径 4：创新创业人才",
+            "Route 4: innovative and entrepreneurial talent"
+          ],
+          "text": [
+            "须符合具体门槛。例如，以重大技术、专利等出资的企业创始人路径，还要求连续 3 年投资稳定、企业累计实际投资不少于 50 万美元、个人股份不少于 30%。另一企业经营路径涉及连续 3 年销售额每年 1000 万元以上或纳税额每年 100 万元以上，以及规定职务。也包括规定创新企业或科创职业清单单位的相应高级人员。仅注册公司或拥有专利不一定符合。",
+            "Specific thresholds apply. One technology/IP founder route also requires three years of stable investment, at least USD 500,000 cumulative actual enterprise investment and at least 30% personal ownership. Another business route requires annual sales over RMB 10 million or tax over RMB 1 million for three consecutive years and specified positions. Certain senior personnel at listed innovation employers/occupations are included. Incorporation or a patent alone may not qualify."
+          ]
+        },
+        {
+          "title": [
+            "路径 5–6：优秀青年与积分",
+            "Routes 5–6: outstanding young talent and points"
+          ],
+          "text": [
+            "⑤ 优秀青年人才：40 岁以下，在国境外高水平大学或中国境内高校从事博士后研究。不是所有年轻博士自动符合。\n⑥ 积分路径：按规则证明达到 85 分；学历、工资、经历等计分证据需核验。",
+            "5. Outstanding young talent: postdoctoral researchers under 40 at qualifying high-level overseas universities or universities in China. Not every young doctorate holder qualifies.\n6. Points: substantiate at least 85 using eligible qualifications, remuneration, experience and other evidence."
+          ]
+        },
+        {
+          "title": [
+            "办理和居留有什么不同？",
+            "Approval and residence link"
+          ],
+          "text": [
+            "服务指南允许高端人才不受通常年龄、学历和工作经历限制，并享受规定便利；这不等于免办工作许可或材料免审。A 类长期工作仍须办理适用工作类居留手续。高层次人才可能适用较长期限，但“A 类自动五年居留”不是全国统一规则。",
+            "The guide permits exemptions from usual age, education and experience restrictions and specified facilitation for high-end talent. This does not waive work authorization or evidence review. Long-term A employment still needs applicable work residence. Longer terms may be available, but A does not automatically mean five years nationally."
+          ]
+        }
+      ],
+      "reminder": [
+        "A 类是工作许可人才分类。路径之间可替代，路径内条件不可任意省略。",
+        "A is a work-permit talent category. Routes are alternatives; conditions within each route still apply."
+      ],
+      "sources": [
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "title": [
+        "07 · B 类工作许可：专业人才的主要条件",
+        "07 · Category B: professional talent requirements"
+      ],
+      "intro": [
+        "本科 + 两年相关经验是一条常见路径，不是 B 类全部标准。还包括技能、教学、薪酬、专门项目和积分路径。",
+        "Bachelor’s plus two years of relevant experience is one common route, not the entire B standard. Skills, teaching, remuneration, designated programs and points are also routes."
+      ],
+      "sections": [
+        {
+          "title": [
+            "路径 1：学历、经验与岗位",
+            "Route 1: degree, experience and role"
+          ],
+          "text": [
+            "通常具有学士及以上学位、至少 2 年相关经历，年龄不超过 60 周岁，并符合岗位及一般条件。岗位包括企业等聘用的管理或专业技术人员、跨国公司派遣的中层以上人员、部分教育科研文化卫生岗位、符合规定的政府协议或代表机构人员等。经验必须与拟任岗位相关，不能只计算毕业后的日历年数。",
+            "The usual route requires a bachelor’s or higher, at least two years of relevant experience, normally age 60 or below, plus an eligible role and general conditions. Listed roles include managers/technical professionals, specified multinational assignees, education/research/culture/health roles and qualifying agreement/representative personnel. Experience must relate to the role, not just years since graduation."
+          ]
+        },
+        {
+          "title": [
+            "路径 2–3：技能与外语教学",
+            "Routes 2–3: skills and language teaching"
+          ],
+          "text": [
+            "② 国际通用职业技能资格，或急需紧缺技能人才：按具体要求核验。\n③ 外语教师：原则上教授其母语国母语，学士及以上学位，至少 2 年语言教育经验。教育类、语言类或师范类学士及以上学位，或所在国教师资格，或符合要求的国际语言教学证书，可免除经验要求。免除经验不等于免除其他条件。",
+            "2. Recognized international vocational skills qualifications or urgently needed skills: verify detailed requirements.\n3. Language teachers generally teach their home country’s native language, hold a bachelor’s or higher and have two years of language teaching. Education/language/teaching degrees, home-country teaching qualifications or qualifying international teaching certificates may waive experience, not every other condition."
+          ]
+        },
+        {
+          "title": [
+            "路径 4–6：薪酬、专门项目与积分",
+            "Routes 4–6: remuneration, programs and points"
+          ],
+          "text": [
+            "④ 平均工资收入不低于本地区上年度社会平均工资收入 4 倍；核对当地基准、合同及收入证据。\n⑤ 符合国家有关部门规定的专门人员和实施项目人员；按对应规定核对。\n⑥ 积分达到 60 分可评估 B 类；达到 85 分可评估 A 类积分路径。工资倍数路径与年度工资积分是两种判断方式，不是同一个标准。",
+            "4. Average remuneration of at least four times the regional prior-year average social wage: verify the benchmark and evidence.\n5. Designated personnel/projects under relevant national rules: review the corresponding provisions.\n6. At least 60 points supports B; at 85, assess A. Wage-multiple recognition and annual salary points are different tests."
+          ]
+        },
+        {
+          "title": [
+            "放宽政策和居留衔接",
+            "Relaxations and residence link"
+          ],
+          "text": [
+            "对确有需要且符合规定的创新创业人才、专业技能人才、优秀外国毕业生、积分人才及政府间协议人员，可能适当放宽年龄、学历或经验。未满足常见路径时，要查找明确适用的其他依据，不能直接判定永远不符合或承诺一定获批。B 类长期受雇通常办理工作类居留许可；居留年限按个案和当地政策决定。",
+            "Age, education or experience may be relaxed where permitted for qualifying entrepreneurs, skilled talent, graduates, points-based talent and intergovernmental personnel. Identify an explicit alternative if the common route is not met; neither permanent ineligibility nor approval should be assumed. Long-term B employees usually obtain work residence; the term depends on the case and policy."
+          ]
+        }
+      ],
+      "reminder": [
+        "常见学历经验路径不是唯一途径；经验豁免、技能、薪酬和积分均需分别核对。",
+        "The common degree/experience route is not the only route; assess waivers, skills, remuneration and points separately."
+      ],
+      "sources": [
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "title": [
+        "08 · C 类工作许可：政策、短期工作与配额",
+        "08 · Category C: policies, short-term work and quotas"
+      ],
+      "intro": [
+        "C 类针对满足劳动力市场需求及国家政策的其他外国人员，不是学历较低或 B 类不达标的自动降级方案。",
+        "C concerns other personnel meeting labor-market needs and national policies, not an automatic downgrade for low qualifications or unmet B conditions."
+      ],
+      "sections": [
+        {
+          "title": [
+            "主要适用人员",
+            "Main covered groups"
+          ],
+          "text": [
+            "① 符合现行外国人在中国工作管理规定的其他人员。\n② 从事不超过 90 日临时、短期工作的外国人员，按适用短期手续处理。\n③ 部分配额管理人员：政府间协议来华实习的外国青年、符合规定的外国留学生或境外高校外籍毕业生、远洋捕捞等特殊领域人员。核对具体项目、资格、岗位、期限和配额。",
+            "1. Other personnel qualifying under current work-management rules.\n2. Temporary/short-term workers for up to 90 days, subject to applicable short-term procedures.\n3. Certain quota-managed groups: young interns under intergovernmental agreements, qualifying students/foreign graduates of overseas institutions and personnel in special fields such as distant-water fishing. Check the specific program, eligibility, role, duration and quota."
+          ]
+        },
+        {
+          "title": [
+            "短期不等于免办手续",
+            "Short-term is not an exemption"
+          ],
+          "text": [
+            "是否属于工作要看实际活动，不仅看停留天数或工资支付地。短期工作仍可能需要工作许可通知、适用签证和其他证明。适用的超过 30 日短期工作还可能涉及工作类居留，应核对政策和签证标注，不能单凭“少于 90 日”省略步骤。",
+            "Assess the actual activities, not only duration or salary payer location. Short-term work may still require notification, an appropriate visa and other evidence. Applicable assignments exceeding 30 days may also involve work residence; check the policy and visa remarks rather than omitting steps simply because the assignment is under 90 days."
+          ]
+        },
+        {
+          "title": [
+            "低积分为什么不能自动归 C？",
+            "Why low points do not establish C"
+          ],
+          "text": [
+            "积分未达 B 门槛，只说明该积分路径不满足，不证明符合 C 的具体政策。普通长期求职者 58 分、无其他依据时，不能仅因低分承诺 C 类申请。符合项目者则应按项目要求评估，不应只盯着积分。",
+            "Being below B points only means that points route is unmet; it does not prove C eligibility. An ordinary long-term applicant with 58 and no other basis cannot be promised C. For an eligible program participant, assess the program’s conditions rather than only the score."
+          ]
+        }
+      ],
+      "reminder": [
+        "C 类要回答“哪条具体政策适用”，而不是“分数是否够低”。",
+        "For C, ask which policy applies, not whether the score is low enough."
+      ],
+      "sources": [
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "title": [
+        "09 · 居留许可：工作类及其他类别如何对应",
+        "09 · Residence: work and other purposes"
+      ],
+      "intro": [
+        "居留按在华事由分类，与 A/B/C 人才分类不同。居留许可通常签发在护照上；工作许可与社保卡融合不表示社保卡替代居留证件。",
+        "Residence is classified by purpose, independently of A/B/C. It is generally placed in the passport; work-permit/card integration does not replace residence documentation."
+      ],
+      "sections": [
+        {
+          "title": [
+            "常见衔接关系",
+            "Typical links, subject to the route"
+          ],
+          "headers": [
+            [
+              "情形",
+              "Situation"
+            ],
+            [
+              "居留类别",
+              "Residence type"
+            ],
+            [
+              "说明",
+              "Explanation"
+            ]
+          ],
+          "rows": [
+            [
+              [
+                "长期受雇，常见 Z 路径",
+                "Long-term employment, usually Z"
+              ],
+              [
+                "工作类",
+                "Work"
+              ],
+              [
+                "A、B 及适用的 C 类均需核对，不是三种 A/B/C 居留证。",
+                "Check for A, B and applicable C cases; not three A/B/C residence types."
+              ]
+            ],
+            [
+              [
+                "X1 长期学习",
+                "X1 long-term study"
+              ],
+              [
+                "学习类",
+                "Study"
+              ],
+              [
+                "校外实习需学校同意和规定的居留加注。",
+                "Off-campus internships require school consent and annotation."
+              ]
+            ],
+            [
+              [
+                "Q1 家庭团聚",
+                "Q1 reunion"
+              ],
+              [
+                "团聚类",
+                "Reunion"
+              ],
+              [
+                "符合条件的中国公民或外籍中国永居者的家属等。",
+                "Qualifying relatives of Chinese citizens or foreign permanent residents, among others."
+              ]
+            ],
+            [
+              [
+                "S1 长期探亲",
+                "S1 long family visit"
+              ],
+              [
+                "私人事务类",
+                "Private affairs"
+              ],
+              [
+                "外籍员工家属常见路径；不自动取得工作权利。",
+                "Common for foreign employees’ dependants; no automatic employment rights."
+              ]
+            ],
+            [
+              [
+                "J1 常驻记者",
+                "J1 resident journalist"
+              ],
+              [
+                "记者类",
+                "Journalist"
+              ],
+              [
+                "按记者身份及主管部门证明办理。",
+                "Requires journalist status and authority evidence."
+              ]
+            ]
+          ]
+        },
+        {
+          "title": [
+            "工作类居留需要什么？",
+            "What supports work residence?"
+          ],
+          "text": [
+            "按要求提交有效护照、申请表和照片、工作许可等证明以及雇主、申请事由相关材料；健康证明、住宿信息和其他要求按适用规则核对。证卡融合下可通过通知、电子社保卡或系统核验衔接工作许可信息。工作许可部门与居留审批机关不同，应分别跟进。",
+            "Submit the required passport, form/photo, work-permit evidence and employer/purpose documents. Check applicable health, accommodation and other requirements. Integration allows notification, electronic-card or system verification of work information. Work and residence authorities differ; track both."
+          ]
+        },
+        {
+          "title": [
+            "A/B/C 不固定决定居留年限",
+            "A/B/C does not fix residence duration"
+          ],
+          "text": [
+            "不存在全国统一的“A 五年、B 两年、C 一年”表。国家移民管理局指南允许符合条件的高层次、急需紧缺人才和投资者获得不超过 5 年；信誉良好的备案单位人员不超过 2 年；其他人员不超过 1 年，另有经批准的地方便利政策。上述是可适用范围，不是承诺，应结合护照、工作期限、材料和当地政策核对。",
+            "There is no national A-five/B-two/C-one-year table. The NIA guide allows up to five years for qualifying high-level/urgently needed talent and investors, up to two for reputable registered employers’ personnel and up to one for others; approved local facilitation may also apply. These are possible terms, not promises. Check passport, work duration, evidence and local policy."
+          ]
+        },
+        {
+          "title": [
+            "五年居留也不是永久居留",
+            "Five-year residence is not permanent residence"
+          ],
+          "text": [
+            "工作类居留仍有到期日和事由限制，不等于永久居留身份证。工作许可和居留许可的续期，以及换雇主、岗位或城市后的手续要分别核对，一个证件仍有效不代表所有条件都已满足。",
+            "Work residence still expires and has purpose restrictions; it is not a permanent resident ID. Review permit/residence renewals and changes of employer, role or city separately. One valid document does not mean all conditions are met."
+          ]
+        }
+      ],
+      "reminder": [
+        "长期工作通常对应工作类居留；人才分类用于工作许可评估，居留期限由适用政策和个案审批决定。",
+        "Long-term work normally links to work residence. Talent classification informs work assessment; residence terms follow policy and case approval."
+      ],
+      "sources": [
+        0,
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "title": [
+        "10 · 时间管理：三个不同的时钟",
+        "10 · Time management: three different clocks"
+      ],
+      "intro": [
+        "分别记录签证有效期、每次入境停留期限、居留到期日，以及实际入境日和入住日。它们不是同一个时间概念。",
+        "Track visa validity, each entry’s stay limit, residence expiry, entry date and accommodation arrival separately. They are distinct concepts."
+      ],
+      "sections": [
+        {
+          "title": [
+            "签证有效期与本次停留",
+            "Visa validity versus this entry’s stay"
+          ],
+          "text": [
+            "签证有效期通常指可凭签证申请入境的时间范围；入境次数说明可使用次数；停留期及备注约束入境后的停留。十年多次 M 签证不等于连续居住十年，也不等于工作授权。",
+            "Visa validity normally defines the window to seek entry; entries specify frequency; stay limits and remarks govern time after entry. A ten-year multiple-entry M does not permit ten years of continuous residence or employment."
+          ]
+        },
+        {
+          "title": [
+            "入境后与入住后的期限",
+            "Entry and accommodation deadlines"
+          ],
+          "text": [
+            "注明需办居留证件的签证，30 日申请期限从入境之日起算，不从签合同、到公司报到或入住公寓日起算。非旅馆登记的 24 小时从入住该住所起算；住酒店后搬到公寓，仍要核对新住所登记。",
+            "For a visa requiring residence documentation, the 30-day application period starts at entry, not contract signing, office reporting or apartment move-in. The non-hotel 24 hours begins at that address’s arrival. Moving from a hotel to an apartment requires checking the new address’s registration."
+          ]
+        },
+        {
+          "title": [
+            "居留延期和信息变更",
+            "Residence extension and changes"
+          ],
+          "text": [
+            "需要延长居留，应在居留证件有效期届满 30 日前申请；登记事项变更，应在变更之日起 10 日内向居留地出入境机关申请变更。工作许可变更和续期另有要求，不要把居留期限直接套用到工作许可。提前安排并留出补材料时间。",
+            "Apply for residence extension 30 days before expiry. Apply to the local exit-entry authority within 10 days of changes to registered details. Work-permit renewals/changes have their own rules; do not copy residence deadlines onto them. Schedule early and allow for supplementary evidence."
+          ]
+        }
+      ],
+      "reminder": [
+        "24 小时看入住；入境后 30 日看入境；居留延期看居留到期。不同事项分别起算。",
+        "24 hours: accommodation arrival. Post-entry 30 days: entry. Residence extension: residence expiry. Track separately."
+      ],
+      "sources": [
+        0,
+        1,
+        7
+      ]
+    },
+    {
+      "title": [
+        "11 · 案件核对：从背知识到做判断",
+        "11 · Case checks: from recall to judgment"
+      ],
+      "intro": [
+        "Intern 应识别适用依据、缺少的信息与正确下一步，不凭一个证件名称、职位或学历作最终判断。",
+        "Identify the applicable basis, missing facts and next steps. A document name, title or degree alone is not a complete assessment."
+      ],
+      "sections": [
+        {
+          "title": [
+            "先收集五组信息",
+            "Collect five groups of facts"
+          ],
+          "text": [
+            "1. 人在哪里，已有证件是什么，什么时候到期？\n2. 实际活动是什么，城市、雇主、岗位是否确定？\n3. 工作多久，是否适用短期、项目或境内申请政策？\n4. 哪条 A/B/C 路径有证据，有没有明确放宽或豁免依据？\n5. 谁负责许可、签证和居留，什么时候可确认合规入职？",
+            "1. Where is the applicant, what documents do they hold and when do these expire?\n2. What are the activities, city, employer and role?\n3. What duration and short-term/program/in-country rules apply?\n4. Which evidenced A/B/C route and explicit waiver/relaxation apply?\n5. Who handles permit, visa and residence, and when can work readiness be confirmed?"
+          ]
+        },
+        {
+          "title": [
+            "材料与政策交叉核对",
+            "Cross-check evidence and policy"
+          ],
+          "text": [
+            "用合同、任职证明或派遣函核对雇主、职责、地点、薪酬和期限。用可核验材料支持学历、经历、认定及积分。境外文件的附加证明书、认证、公证和翻译要求要看来源地、种类、公约及当地规则，不沿用旧指南的一刀切表述。",
+            "Cross-check employer, duties, location, remuneration and duration using contracts or appointment/assignment evidence. Verify qualifications, experience, recognition and points. Apostille, legalization, notarization and translation depend on origin, type, conventions and local rules; avoid applying old instructions universally."
+          ]
+        },
+        {
+          "title": [
+            "变化和实习应单独评估",
+            "Review changes and internships separately"
+          ],
+          "text": [
+            "换雇主、岗位、城市、护照，证件临近到期，家属想工作或学生想校外实习，需核对各项手续。持学习类居留证件校外实习，应取得学校同意并办理实习地点、期限等加注；这与政府间协议下 C 类实习项目不是同一条路径。",
+            "Review employer/role/city/passport changes, expiry, dependants’ work plans and students’ off-campus internships. A study-residence internship needs school consent and annotation of location, duration and other details. This differs from C internships under intergovernmental agreements."
+          ]
+        }
+      ],
+      "reminder": [
+        "课程已结束。可以退出学习，或立即用三关情境题检验对文件、条件和流程的理解。",
+        "Course complete. Exit learning or use the three scenario missions to test documents, eligibility and process understanding."
+      ],
+      "sources": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "levels": [
+    {
+      "name": [
+        "证件与流程侦探",
+        "Documents and process detective"
+      ],
+      "desc": [
+        "识别签证用途、申请先后和家属路径",
+        "Assess visa purposes, sequence and dependant routes"
+      ],
+      "questions": [
+        {
+          "id": "documents-1",
+          "lesson": 1,
+          "prompt": [
+            "同事把案件记录写成“申请 B 类工作签证，获批后再办 Z 类工作许可”。哪项更正能准确区分文件？",
+            "A colleague writes “apply for a B work visa, then a Z work permit.” Which correction properly distinguishes the documents?"
+          ],
+          "options": [
+            [
+              "B 是工作许可的人才分类；Z 是签证类别；长期工作还需核对工作类居留许可。",
+              "B is a work-permit talent category; Z is a visa category; long-term work also requires checking work residence."
+            ],
+            [
+              "B 是长期工作签证；Z 是入境后的居留许可，先后顺序正确。",
+              "B is a long-term work visa; Z is post-entry residence, so the order is correct."
+            ],
+            [
+              "B 和 Z 都是工作许可类别，分别用于专业人才和短期工作。",
+              "B and Z are both work-permit types, for professionals and short-term work."
+            ],
+            [
+              "B 是居留许可等级；Z 签证决定工作许可的人才类别。",
+              "B is a residence grade; Z determines the work-permit talent category."
+            ]
+          ],
+          "answer": 0,
+          "rationales": [
+            [
+              "B 与 Z 属于不同制度。长期工作还应分别核对工作类居留条件，不能用一种文件替代另一种。",
+              "B and Z belong to different systems. Review work residence separately for long-term employment; one document cannot replace another."
+            ],
+            [
+              "B 不是长期签证，Z 也不是居留许可。互换名称仍然会混淆审批事项。",
+              "B is not a long-term visa and Z is not residence. Reversing the labels does not fix the confusion."
+            ],
+            [
+              "本课程的工作许可人才分类是 A/B/C；Z 属于签证，也不专指短期工作。",
+              "Work-permit talent categories here are A/B/C. Z is a visa, not exclusively for short-term work."
+            ],
+            [
+              "居留按工作、学习等事由分类；Z 本身不能决定 A、B 或 C 人才认定。",
+              "Residence is classified by purposes such as work/study. Z itself does not determine A, B or C."
+            ]
+          ],
+          "sources": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "id": "documents-2",
+          "lesson": 0,
+          "prompt": [
+            "Maya 在境外，拟首次到中国企业任职两年；她没有中国永久居留资格，也不适用特别路径。哪项前期安排合理？",
+            "Maya is overseas and will take her first two-year job with a Chinese employer. She has no permanent residence or special route. What is a reasonable initial plan?"
+          ],
+          "options": [
+            [
+              "先申请 Z 签证，签发后雇主再提交工作许可申请。",
+              "Apply for Z first, then have the employer apply for work authorization."
+            ],
+            [
+              "雇主先评估并申请工作许可，取得通知后申请 Z 签证；入境后衔接居留手续。",
+              "Employer assesses/applies for work authorization, obtains notification, then Maya applies for Z and completes post-entry residence procedures."
+            ],
+            [
+              "先持 M 入境并入职，再统一补办工作和居留手续。",
+              "Enter and start on M, then complete work and residence procedures."
+            ],
+            [
+              "雇主在入境前申请工作类居留许可，以此代替 Z 签证。",
+              "Employer obtains work residence before entry instead of Z."
+            ]
+          ],
+          "answer": 1,
+          "rationales": [
+            [
+              "普通境外申请通常先取得工作许可通知，作为 Z 签证的支持材料。",
+              "The ordinary overseas route normally obtains work permit notification first to support Z."
+            ],
+            [
+              "评估和许可申请在前，签证、入境和居留衔接在后。通知不代表已完成全部入职条件。",
+              "Assessment and permit application precede visa, entry and residence procedures. Notification alone is not complete employment clearance."
+            ],
+            [
+              "M 是商业贸易事由，不能用先工作后补手续代替合法授权。",
+              "M concerns commercial activities. Starting first and applying later does not meet authorization requirements."
+            ],
+            [
+              "题中普通首次境外路径的工作类居留在入境后办理，不能作为境外 Z 申请的替代。",
+              "For this ordinary overseas first hire, work residence is handled after entry, not instead of the overseas Z application."
+            ]
+          ],
+          "sources": [
+            0,
+            4,
+            6
+          ]
+        },
+        {
+          "id": "documents-3",
+          "lesson": 2,
+          "prompt": [
+            "Alex 持 M 字签证来华商务洽谈。中国公司现另行聘他在上海全职任职一年，尚未申请工作许可。你应如何建议？",
+            "Alex holds M for business negotiations. A Chinese company now hires him for a full-time one-year Shanghai role; no work permit has been applied for. What should you advise?"
+          ],
+          "options": [
+            [
+              "M 尚未到期，可以先工作；到期前再申请 Z 即可。",
+              "He may work while M is valid and apply for Z before expiry."
+            ],
+            [
+              "只要工资由境外支付，就可以按商务访问继续任职。",
+              "He may take the role as a business visitor if salary is paid overseas."
+            ],
+            [
+              "先不要开始受雇工作；评估许可及适用签证、居留路径，完成所需授权后安排入职。",
+              "Do not start employment yet. Assess work authorization and applicable visa/residence routes, then confirm required permissions."
+            ],
+            [
+              "延长 M 停留期至一年，即可覆盖新聘用合同。",
+              "Extend M to a one-year stay to cover the contract."
+            ]
+          ],
+          "answer": 2,
+          "rationales": [
+            [
+              "签证未到期不自动增加受雇工作权利；须看实际活动与授权。",
+              "An unexpired visa does not add employment rights; review the activities and authorization."
+            ],
+            [
+              "付款地点不是唯一标准。题目明确是在中国公司全职任职，应按工作情形处理。",
+              "Salary location is not the sole test. The case expressly describes full-time employment with a Chinese company."
+            ],
+            [
+              "实际事由已从洽谈变为受雇。是否可境内办理或需境外申请，应按个案条件核对，不能直接承诺转换。",
+              "The purpose has changed from negotiations to employment. Assess whether an in-country or overseas route is available; do not promise conversion."
+            ],
+            [
+              "停留延期解决时间问题，不把 M 商务签证变成工作许可。",
+              "An extension addresses time, not work authorization; it does not turn M into a work permit."
+            ]
+          ],
+          "sources": [
+            0,
+            1,
+            6
+          ]
+        },
+        {
+          "id": "documents-4",
+          "lesson": 3,
+          "prompt": [
+            "Jordan 是持有效工作类居留许可的外籍员工，没有中国永久居留资格。其外籍配偶拟共同居住一年，不计划工作。应优先评估什么路径？",
+            "Jordan is a foreign employee with valid work residence, not permanent residence. Their foreign spouse plans a one-year family stay without working. Which usual route should be assessed?"
+          ],
+          "options": [
+            [
+              "Q1 入境后办理团聚类居留，因为配偶是家庭成员。",
+              "Q1 and reunion residence because the spouse is a family member."
+            ],
+            [
+              "随 Jordan 办 B 类工作许可，无需配偶独立岗位。",
+              "B alongside Jordan without a separate job for the spouse."
+            ],
+            [
+              "S2 即可连续居住一年，无需核对居留要求。",
+              "S2 alone covers a continuous year without residence review."
+            ],
+            [
+              "符合亲属关系等条件时，评估 S1 及入境后的私人事务类居留。",
+              "Subject to relationship and other conditions, S1 followed by private-affairs residence."
+            ]
+          ],
+          "answer": 3,
+          "rationales": [
+            [
+              "Q 类被探望人是中国公民或外籍中国永居者；Jordan 不符合题中的这一前提。",
+              "Q concerns Chinese-citizen or foreign-permanent-resident sponsors; Jordan does not meet that premise."
+            ],
+            [
+              "家属不会继承员工的工作许可。若拟受雇，应按自己的岗位和资格评估。",
+              "Dependants do not inherit work authorization. Employment needs their own role and eligibility assessment."
+            ],
+            [
+              "S2 通常是短期探亲或停留。本题一年共同居住，应评估长期路径。",
+              "S2 generally covers short visits/stays. A one-year family stay calls for long-term-route assessment."
+            ],
+            [
+              "被探望人是因工作在华居留的外国人，符合条件的配偶长期探亲通常对应 S1 和私人事务类居留。",
+              "The sponsor is a foreign work resident. A qualifying spouse’s long visit usually links to S1 and private-affairs residence."
+            ]
+          ],
+          "sources": [
+            1,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "documents-5",
+          "lesson": 2,
+          "prompt": [
+            "一位研究人员持 R 字人才签证入境，准备在中国大学长期受雇。哪项判断准确？",
+            "A researcher enters on R and plans long-term employment at a Chinese university. Which assessment is accurate?"
+          ],
+          "options": [
+            [
+              "R 是签证类别；仍需核对工作许可和工作类居留要求，不能仅凭 R 确认已完成入职授权。",
+              "R is a visa; review work authorization and work residence rather than treating R alone as full clearance."
+            ],
+            [
+              "R 是 A 类工作许可的另一名称，无需再次核对工作许可。",
+              "R is another name for A work authorization, so no further permit review is needed."
+            ],
+            [
+              "停留期限未届满即可长期任职，居留手续等签证失效后再办。",
+              "Start long-term work while the stay is valid; residence can wait until the visa becomes invalid."
+            ],
+            [
+              "R 只用于短期访问，所有持 R 人员必须先换 Z 才能办任何工作手续。",
+              "R only covers short visits; every R holder must switch to Z before any work procedure."
+            ]
+          ],
+          "answer": 0,
+          "rationales": [
+            [
+              "R 与 A 属于不同制度。人才签证便利不免除长期工作的适用工作及居留要求。",
+              "R and A are different systems. Talent-visa facilitation does not remove applicable work and residence requirements."
+            ],
+            [
+              "人才认定可能有交集，但签证不能直接等同工作许可。",
+              "Recognition may overlap, but a visa is not a work permit."
+            ],
+            [
+              "允许停留不等于允许受雇。有适用居留要求时不能等签证失效再办。",
+              "Permission to stay is not permission to work. Applicable residence procedures cannot wait until visa invalidity."
+            ],
+            [
+              "可能存在适用的特别办理路径。“所有人先换 Z”忽略个案政策，应核对而非一刀切。",
+              "Applicable special routes may exist. Requiring every R holder to switch to Z ignores case-specific rules."
+            ]
+          ],
+          "sources": [
+            0,
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "name": [
+        "工作许可分类研究所",
+        "Work-permit classification lab"
+      ],
+      "desc": [
+        "识别认定路径、经验豁免和分类边界",
+        "Assess routes, experience waivers and category boundaries"
+      ],
+      "questions": [
+        {
+          "id": "categories-1",
+          "lesson": 4,
+          "prompt": [
+            "Lin 的积分材料按规则核验后，总分恰好为 85 分，一般申请条件已满足。仅就积分路径，应如何评估？",
+            "Lin has exactly 85 verified points and meets general conditions. Considering only the points route, what is the right assessment?"
+          ],
+          "options": [
+            [
+              "只能评估 B，因为 A 必须超过 85 分。",
+              "Only B, because A requires more than 85."
+            ],
+            [
+              "可评估 A 类积分路径，但仍需完成申请和审批。",
+              "Assess A points, while still completing application and approval."
+            ],
+            [
+              "先归 C，取得 Z 后由使领馆升级为 A。",
+              "Use C, then the consulate upgrades to A after issuing Z."
+            ],
+            [
+              "积分达标等于工作许可有效，可立即入职。",
+              "The score itself is an effective permit and allows immediate work."
+            ]
+          ],
+          "answer": 1,
+          "rationales": [
+            [
+              "现行积分说明为 85 分及以上，恰好 85 可进入 A 类积分评估。",
+              "The current framework is 85 or more; exactly 85 meets A points."
+            ],
+            [
+              "分类达标是评估依据，不替代材料审核、许可决定和适用居留手续。",
+              "The score supports assessment, not a substitute for evidence review, permit approval and applicable residence procedures."
+            ],
+            [
+              "工作分类由工作管理部门审查，签证机关不在签发 Z 后升级人才类别。",
+              "The work authority reviews classification; the consulate does not upgrade talent categories after Z."
+            ],
+            [
+              "达到积分门槛不代表行政许可已经签发、生效。",
+              "Meeting a threshold does not mean administrative authorization has been issued or become effective."
+            ]
+          ],
+          "sources": [
+            2,
+            3,
+            8
+          ]
+        },
+        {
+          "id": "categories-2",
+          "lesson": 5,
+          "prompt": [
+            "Eva 有可核验材料，已符合 A 类国际公认专业成就路径，一般条件满足，但积分只有 72 分。应如何评估？",
+            "Eva has verified evidence meeting the A recognized-achievement route and general conditions, but only 72 points. How should she be assessed?"
+          ],
+          "options": [
+            [
+              "必须按 B，因为不足 85 分不能是 A。",
+              "Use B because below 85 cannot be A."
+            ],
+            [
+              "先加薪补足 85，专业成就只作加分。",
+              "Increase salary to 85; achievements only add points."
+            ],
+            [
+              "可按已满足的 A 类成就路径评估，无需同时达到 85 分。",
+              "Assess the qualifying A achievement route without also requiring 85 points."
+            ],
+            [
+              "先办 C，在华工作两年后才能认定 A。",
+              "Use C first and work two years in China before A assessment."
+            ]
+          ],
+          "answer": 2,
+          "rationales": [
+            [
+              "积分不是 A 唯一途径，标准也有专业成就等独立认定路径。",
+              "Points are not the only A route; recognized achievements are an independent route."
+            ],
+            [
+              "已符合的专业成就是独立认定依据，不只是补积分的项目。",
+              "Qualifying achievements are an independent basis, not merely a points supplement."
+            ],
+            [
+              "路径之间可替代。符合并有证据时可据此评估 A，但仍需正式申请和审核。",
+              "Routes are alternatives. Verified qualifying evidence supports A assessment, still subject to application and review."
+            ],
+            [
+              "该路径没有先 C、在华两年的通用前置条件，也不能无依据归 C。",
+              "There is no universal C-first/two-years-in-China prerequisite for this route or a basis here to choose C."
+            ]
+          ],
+          "sources": [
+            2,
+            3
+          ]
+        },
+        {
+          "id": "categories-3",
+          "lesson": 6,
+          "prompt": [
+            "Omar 35 岁，学士学位，有 3 年工程师经历，拟任专业技术岗位。雇主及一般条件已核对；使用 B 类常见学历经验路径时，还要重点确认什么？",
+            "Omar is 35, holds a bachelor’s and has three years as an engineer for a proposed technical role. Employer/general conditions are checked. What remains important for the common B degree/experience route?"
+          ],
+          "options": [
+            [
+              "另有博士学位，因为工程岗位只能使用博士资格。",
+              "A doctorate, because engineering roles require it under this route."
+            ],
+            [
+              "达到 85 分，因为本科和经验仅用于 A。",
+              "85 points, because degree/experience applies only to A."
+            ],
+            [
+              "曾在中国工作两年，因为境外经验不计算。",
+              "Two years in China, because overseas experience is excluded."
+            ],
+            [
+              "经验与拟任岗位是否相关，学位、经历和岗位是否可按要求证明。",
+              "Whether experience relates to the role and qualifications, experience and role are substantiated."
+            ]
+          ],
+          "answer": 3,
+          "rationales": [
+            [
+              "常见路径为学士及以上，不是所有工程岗位都要求博士；行业条件另查。",
+              "The common route requires a bachelor’s or higher, not a doctorate for every engineer; check sector rules separately."
+            ],
+            [
+              "85 是 A 积分门槛，不是该 B 学历经验路径的附加要求。",
+              "85 is the A points threshold, not an added requirement for this B route."
+            ],
+            [
+              "标准没有排除所有符合条件的境外相关经历；关键是相关性和证据。",
+              "The standard does not exclude all eligible overseas experience; relevance and evidence matter."
+            ],
+            [
+              "题中年数足够，但尚未确认是否与新岗位相关。职位名称和总年数不能替代核验。",
+              "Duration is sufficient, but relevance to the new role is not yet confirmed. Titles and elapsed years do not replace evidence checks."
+            ]
+          ],
+          "sources": [
+            2,
+            3
+          ]
+        },
+        {
+          "id": "categories-4",
+          "lesson": 6,
+          "prompt": [
+            "Nora 拟教授其母语国的母语，持教育类学士学位，仅有 1 年语言教学经验。其他条件继续核对中。经验条件应如何判断？",
+            "Nora will teach her home country’s native language, has an education bachelor’s and one year of language teaching. Other conditions are being reviewed. What is correct about experience?"
+          ],
+          "options": [
+            [
+              "教育类学士可支持适用经验豁免；仍核对学位和其他条件。",
+              "The education degree may support the experience waiver; verify the degree and other conditions."
+            ],
+            [
+              "必须满两年，任何学位都不能豁免。",
+              "Two years is mandatory; no degree can waive it."
+            ],
+            [
+              "豁免经验后，母语、学历和雇主条件都无需再审。",
+              "With waived experience, language, degree and employer checks also disappear."
+            ],
+            [
+              "不足两年应直接归 C 短期工作，与合同期限无关。",
+              "Under two years means C short-term work regardless of contract duration."
+            ]
+          ],
+          "answer": 0,
+          "rationales": [
+            [
+              "教师规则列明教育、语言或师范类学位等经验豁免依据。豁免一项不保证获批，也不免除其他条件。",
+              "Teaching rules recognize qualifying education/language/teaching degrees for experience waivers. One waiver does not guarantee approval or waive all conditions."
+            ],
+            [
+              "两年是通常要求，但标准明确列出符合条件的豁免。",
+              "Two years is the usual requirement, but explicit qualifying waivers exist."
+            ],
+            [
+              "豁免针对经验，学历、教学语言及雇主等仍须核对。",
+              "The waiver addresses experience; degree, language and employer requirements still matter."
+            ],
+            [
+              "经验不足不能直接创造 C 类资格，题中也没有短期路径事实。",
+              "Insufficient experience does not create C eligibility; no short-term basis is given."
+            ]
+          ],
+          "sources": [
+            2,
+            3
+          ]
+        },
+        {
+          "id": "categories-5",
+          "lesson": 7,
+          "prompt": [
+            "Kai 拟在中国企业任职两年，积分为 58。暂未发现其他 A/B 路径，也无 C 类项目依据。现阶段能得出什么结论？",
+            "Kai plans a two-year job and has 58 points. No other A/B route or C basis has been identified. What can currently be concluded?"
+          ],
+          "options": [
+            [
+              "低于 B 门槛，已经满足 C 条件。",
+              "Below B automatically establishes C."
+            ],
+            [
+              "不能仅凭低分认定 C，须继续核对明确适用的认定或政策依据。",
+              "Low points alone do not establish C; investigate an explicit recognition or policy basis."
+            ],
+            [
+              "合同超过 90 日，自动属于 C 长期项目。",
+              "A contract over 90 days automatically qualifies for a long-term C program."
+            ],
+            [
+              "先持 M 任职积累两年经验，再转 B。",
+              "Work on M for two years to gain experience, then switch to B."
+            ]
+          ],
+          "answer": 1,
+          "rationales": [
+            [
+              "积分路径不满足，不等于符合 C 的项目、政策或配额条件。",
+              "Failing points does not establish C policy, program or quota eligibility."
+            ],
+            [
+              "应区分“不满足当前路径”和“符合另一条路径”，补查事实政策后再判断。",
+              "Distinguish not meeting the current route from meeting another; establish facts and policy first."
+            ],
+            [
+              "期限不自己创造 C 资格，短期范围也不能反推长期自动适用。",
+              "Duration does not create C eligibility; the short-term provision does not imply automatic long-term qualification."
+            ],
+            [
+              "M 不能授权先行受雇累积经验，当前工作授权仍须解决。",
+              "M does not authorize employment to accumulate experience; current authorization must be resolved."
+            ]
+          ],
+          "sources": [
+            2,
+            3,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "name": [
+        "居留与入职行动队",
+        "Residence and onboarding team"
+      ],
+      "desc": [
+        "处理居留衔接、期限和实务案例",
+        "Handle residence links, deadlines and cases"
+      ],
+      "questions": [
+        {
+          "id": "cases-1",
+          "lesson": 8,
+          "prompt": [
+            "一位 A 类申请人拟长期来华工作，经理让你在计划表直接写“工作类居留许可：五年”。应如何处理？",
+            "An A applicant plans long-term work. A manager asks you to write “work residence: five years.” What should you do?"
+          ],
+          "options": [
+            [
+              "直接写五年，A/B/C 全国固定对应五年、两年和一年。",
+              "Write five years; A/B/C nationally fix five/two/one-year residence."
+            ],
+            [
+              "改两年，所有首次申请全国最多两年。",
+              "Write two years, the national maximum for all first applications."
+            ],
+            [
+              "核对较长期限政策和个案材料，A 类不自动保证五年居留。",
+              "Check longer-term eligibility and evidence; A does not automatically guarantee five years."
+            ],
+            [
+              "不用填，A 工作许可已替代工作类居留。",
+              "Leave it blank; A work authorization replaces residence."
+            ]
+          ],
+          "answer": 2,
+          "rationales": [
+            [
+              "A/B/C 是人才分类，没有全国固定的居留年限对应表。",
+              "A/B/C classifies talent; there is no fixed national residence-term correspondence."
+            ],
+            [
+              "不存在所有首次申请一律最多两年的规则，应看适用政策及条件。",
+              "There is no universal two-year cap for all first applications; check policy and conditions."
+            ],
+            [
+              "指南允许符合条件的高层次等人员不超过五年，这是可能适用范围，不是每位 A 的固定结果。",
+              "The guide allows up to five years for qualifying high-level and other specified groups, not a fixed outcome for every A applicant."
+            ],
+            [
+              "工作和居留用途不同，A 分类不会将两项审批合并。",
+              "Work and residence serve different purposes; A does not combine their approvals."
+            ]
+          ],
+          "sources": [
+            1,
+            5
+          ]
+        },
+        {
+          "id": "cases-2",
+          "lesson": 9,
+          "prompt": [
+            "Chris 的 Z 签证注明入境后需办居留。6 月 1 日入境，6 月 8 日入住公寓，6 月 15 日报到。30 日居留申请期限从哪个事件起算？",
+            "Chris’s Z requires residence after entry. He enters June 1, moves into an apartment June 8 and reports June 15. What starts the 30-day application period?"
+          ],
+          "options": [
+            [
+              "6 月 8 日入住，住宿登记后才开始。",
+              "June 8 move-in; timing starts after accommodation registration."
+            ],
+            [
+              "6 月 15 日报到，合同生效后才开始。",
+              "June 15 reporting; timing starts with employment."
+            ],
+            [
+              "领取电子社保卡之日。",
+              "Electronic-card collection."
+            ],
+            [
+              "6 月 1 日入境，入住和报到不重置期限。",
+              "June 1 entry; move-in and reporting do not reset it."
+            ]
+          ],
+          "answer": 3,
+          "rationales": [
+            [
+              "入住影响非旅馆登记的 24 小时时钟，不替代居留申请的起算点。",
+              "Move-in starts the non-hotel 24-hour clock, not the residence clock."
+            ],
+            [
+              "报到不重置签证注明的居留要求，不能等报到后才计算。",
+              "Reporting does not reset visa residence requirements."
+            ],
+            [
+              "社保卡是信息载体和核验渠道，不改变入境后申请期限。",
+              "The card carries/verifies information; it does not change the post-entry deadline."
+            ],
+            [
+              "这项期限从入境之日起算，入住登记和报到是另外的事项。",
+              "This period starts at entry; accommodation registration and reporting are separate events."
+            ]
+          ],
+          "sources": [
+            0,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "cases-3",
+          "lesson": 0,
+          "prompt": [
+            "Priya 按普通境外长期受雇路径入境，Z 签证注明须办居留；有效工作许可信息已确认，但尚未取得工作类居留许可。正式开展工作前应如何判断？",
+            "Priya enters via the ordinary overseas long-term hire route. Z requires residence; work authorization is confirmed valid, but work residence is not yet obtained. What is correct before actual employment?"
+          ],
+          "options": [
+            [
+              "完成适用工作类居留手续后再确认入职，有效工作许可不能替代居留许可。",
+              "Complete applicable work-residence procedures before confirming the work start; work authorization does not replace residence."
+            ],
+            [
+              "已有工作许可可先上班，第 30 日前提交居留申请即可。",
+              "Start with the work permit and apply for residence by day 30."
+            ],
+            [
+              "Z 已包含一年工作居留，无需另办。",
+              "Z already includes one-year work residence."
+            ],
+            [
+              "领取电子社保卡就能替代工作类居留。",
+              "An electronic card replaces work residence."
+            ]
+          ],
+          "answer": 0,
+          "rationales": [
+            [
+              "本题限定普通长期受雇路径，应分别确认有效工作许可和工作类居留。30 日是申请窗口，不是无需居留即可工作的宽限。",
+              "For this ordinary long-term hire, confirm valid work and work-type residence separately. The 30-day application window is not a waiver allowing work without residence."
+            ],
+            [
+              "申请期限不能替代长期工作所需的居留条件，也不应拖到最后办理。",
+              "An application deadline does not remove work-residence requirements; do not leave it to the last day."
+            ],
+            [
+              "Z 是工作入境签证，不是已签发的一年工作类居留。",
+              "Z is an employment-entry visa, not an issued one-year residence permit."
+            ],
+            [
+              "工作许可与社保卡融合未取消居留审批，卡可支持核验但不替代居留。",
+              "Work/card integration did not remove residence approval. The card supports verification, not replacement."
+            ]
+          ],
+          "sources": [
+            0,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "cases-4",
+          "lesson": 8,
+          "prompt": [
+            "Leo 持学习类居留许可，拟到校外公司实习。学校已书面同意，居留证件尚未加注实习地点和期限。按学生实习路径应怎样安排？",
+            "Leo holds study residence and plans an off-campus internship. His school agreed, but there is no residence annotation of internship location/duration. What follows the student-internship route?"
+          ],
+          "options": [
+            [
+              "学校同意即可开始，只有付工资才需加注。",
+              "School consent suffices; annotation is needed only if paid."
+            ],
+            [
+              "向出入境机关办理规定加注，完成后按核准范围开始实习。",
+              "Obtain required annotation from exit-entry authorities, then start within its approved scope."
+            ],
+            [
+              "不是全职，学习居留自动覆盖所有校外实习。",
+              "Study residence automatically covers any internship because it is not full-time."
+            ],
+            [
+              "所有学生实习都改为 C，与学校同意和加注无关。",
+              "Every student internship must use C, irrespective of school consent or annotation."
+            ]
+          ],
+          "answer": 1,
+          "rationales": [
+            [
+              "规定不以付工资为前提，学校同意不能代替居留加注。",
+              "The rule is not conditional on pay; school consent does not replace annotation."
+            ],
+            [
+              "条例要求学校同意及实习地点、期限等加注；未加注，不得按该学习身份路径开始校外实习。",
+              "Regulations require school consent and annotation of location/duration and other details. Without it, this study-status route does not permit starting."
+            ],
+            [
+              "全职与否不会免除这条路径的明确加注要求。",
+              "Full-time status does not remove the explicit annotation requirement."
+            ],
+            [
+              "学习居留加注和政府间协议下 C 实习不同，不能把所有实习一概归 C。",
+              "Study annotation differs from C internships under intergovernmental agreements; not every internship is C."
+            ]
+          ],
+          "sources": [
+            1,
+            5
+          ]
+        },
+        {
+          "id": "cases-5",
+          "lesson": 9,
+          "prompt": [
+            "Pat 的多次 M 签证尚有数年有效期，本次获准停留 60 日。他想连续住满一年并在新雇主任职。应如何说明？",
+            "Pat has years remaining on multiple-entry M, but this entry permits 60 days. He wants a continuous one-year stay and employment. What should you explain?"
+          ],
+          "options": [
+            [
+              "多次签证有效，60 日只限制入境次数，不限制连续停留。",
+              "With a valid multiple-entry visa, 60 days limits entries, not continuous stay."
+            ],
+            [
+              "60 日内找到雇主，合同自动延长停留并授权工作。",
+              "Finding an employer within 60 days means the contract automatically extends stay and authorizes work."
+            ],
+            [
+              "签证有效期、本次停留期和工作授权分别核对，不能由 M 长期有效推定能连续居留或任职。",
+              "Check visa validity, this stay and work authorization separately; long M validity does not establish continuous residence or employment rights."
+            ],
+            [
+              "只延长 M 停留即可覆盖一年受雇工作。",
+              "Extend M to cover one year of employment."
+            ]
+          ],
+          "answer": 2,
+          "rationales": [
+            [
+              "次数与每次停留是不同字段，多次入境不代表无限连续停留。",
+              "Entries and stay duration are distinct; multiple entry does not mean unlimited continuous stay."
+            ],
+            [
+              "私人合同不自动改变签证条件，也不自行产生工作许可。",
+              "A private contract does not alter visa conditions or create administrative work authorization."
+            ],
+            [
+              "本题混淆入境有效期、停留时间和受雇权利，三项应分别核对并选择合法办理路径。",
+              "The case mixes entry validity, stay time and employment rights. Review each and select a lawful route."
+            ],
+            [
+              "延期解决时间，不把商务事由转为受雇工作授权。",
+              "An extension addresses time, not employment authorization."
+            ]
+          ],
+          "sources": [
+            0,
+            1,
+            6
+          ]
+        }
+      ]
+    }
+  ]
+}
