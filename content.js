@@ -1,0 +1,1 @@
+const COURSE=window.mobility.getCourse();const CONTENT_VERSION=COURSE.version;const SOURCES=COURSE.sources;const LESSONS=COURSE.lessons;const LEVELS=COURSE.levels;
